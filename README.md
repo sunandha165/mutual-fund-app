@@ -1,38 +1,44 @@
-# 📈 Mutual Fund Helper – Full Stack App
+# 📱 Mutual Fund Awareness App
 
-A full-stack application built to spread awareness about **mutual funds**, especially among the middle class and beginners in Telugu and English.
+🚧 **This app is still under active development.**  
+The goal is to educate Indian citizens — especially middle-class and financially unaware people — about the benefits of mutual fund investments in simple, regional-friendly formats.
 
-This app includes:
+---
+ ✅ Features Completed
 
-- 🔊 **Voice-based education in Telugu**
-- 💰 **SIP Calculator** to help plan investments
-- 📝 **Feedback system** connected to MongoDB
-- 🎨 Simple and responsive **React UI**
+- SIP Calculator (Systematic Investment Plan)
+- Educational content (Voice + Text)
+- Clean and user-friendly UI
+- Frontend and backend code separated
+- Targeting both mobile and desktop users
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 Upcoming Features
 
-| Frontend                   | Backend          | Database               |
-| -------------------------- | ---------------- | ---------------------- |
-| React, React Router, Axios | Node.js, Express | MongoDB (via Mongoose) |
-
----
-
-## 🚀 Features
-
-- ✅ Learn mutual funds with simple text and Telugu audio
-- ✅ Use SIP Calculator to estimate returns
-- ✅ Submit feedback which is stored in MongoDB
-- ✅ Fully responsive and clean UI
+- Realtime mutual fund news and updates
+- Links to trusted investment apps (Groww, Zerodha, etc.)
+- Video tutorials in different Indian languages
+- Comparison of fund returns
+- Trust-building content (FAQs, common myths, etc.)
+- Multi-language support (Hindi, Tamil, Telugu, Kannada, etc.)
 
 ---
 
-## 🔧 How to Run Locally
+## 🛠️ Tech Stack
 
-### 1. Clone the Repository
+- **Frontend**: React + Vite
+- **Backend**: Node.js + Express
+- **Database**: MongoDB
+- **Version Control**: Git + GitHub
 
-```bash
-git clone https://github.com/yourusername/mutual-fund-helper.git
-cd mutual-fund-helper
-```
+---
+
+## 🙌 Contribution
+
+This project is being developed as part of a college initiative to build socially impactful applications. Suggestions, ideas, and improvements are welcome.
+
+---
+
+> 💡 A step toward building financial literacy in India 🇮🇳
+
